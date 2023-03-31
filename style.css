@@ -1,0 +1,24 @@
+*. {
+    font-family: Helvetica;
+}
+
+h1 {
+    font-size: 22px;
+    font-weight: 800;
+    color: lightpink;
+    background-color: darkolivegreen;
+}
+
+a:link {
+    font-size: 14px;
+    font-weight: 100;
+    color: blue;
+}
+
+a:hover {
+    color: cadetblue;
+}
+
+a:visited {
+    color: grey;
+}
