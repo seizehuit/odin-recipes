@@ -9,6 +9,14 @@ h1 {
     background-color: darkolivegreen;
 }
 
+ul,
+ol,
+li {
+  font-size: 14 px;
+  font-weight: 100;
+  color: black;
+}
+
 a:link {
     font-size: 14px;
     font-weight: 100;
@@ -21,4 +29,10 @@ a:hover {
 
 a:visited {
     color: grey;
+}
+
+.main-title {
+    font-size: 48px;
+    color: darkolivegreen;
+    background-color: lightpink;
 }
